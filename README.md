@@ -21,4 +21,4 @@ To establish a simple and credible online presence for my freelance web services
 Personal Business Website
 
 ## Preview
-![Preview](assets/preview.png)
+![Preview](assets/images/preview.png)
